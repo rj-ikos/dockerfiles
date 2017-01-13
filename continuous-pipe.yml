@@ -1,0 +1,10 @@
+tasks:
+    ubuntu:
+        build:
+            services:
+                ubuntu: ~
+    
+    php70_nginx:
+        build:
+            services: 
+                php70_nginx: ~
